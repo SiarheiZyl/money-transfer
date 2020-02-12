@@ -1,0 +1,88 @@
+2020-02-07 09:07:48 DEBUG RestClient:24 - LOGGER
+2020-02-07 09:45:58 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 09:45:59 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 09:46:46 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 09:46:46 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 09:46:46 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 09:46:46 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-07 09:52:36 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 09:52:36 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 09:52:36 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 09:52:36 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-07 16:45:31 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 16:45:32 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 16:45:32 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 16:45:32 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-07 16:45:41 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 16:45:41 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 16:45:41 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 16:45:41 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-07 16:46:00 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 16:46:00 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 16:46:00 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 16:46:00 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-07 16:46:13 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 16:46:14 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 16:46:14 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 16:46:14 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-07 16:47:54 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 16:48:17 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 16:48:18 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 16:48:18 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 16:48:18 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-07 16:49:03 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 16:49:03 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 16:49:03 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 16:49:03 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-07 16:56:29 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 16:56:30 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 16:56:30 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 16:56:30 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-07 16:58:21 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 16:58:21 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 16:58:21 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 16:58:21 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-07 16:59:49 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 16:59:49 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 16:59:49 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 16:59:49 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-07 17:00:33 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 17:00:33 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 17:00:33 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 17:00:33 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-07 17:01:32 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 17:01:33 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 17:01:33 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 17:01:33 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-07 17:02:16 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 17:02:16 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 17:02:16 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 17:02:16 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-07 17:02:23 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 17:02:24 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 17:02:24 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 17:02:24 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-07 17:06:58 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 17:06:58 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 17:06:58 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 17:06:58 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-07 17:07:17 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-07 17:07:18 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-07 17:07:18 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-07 17:07:18 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-08 11:32:32 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-08 11:32:32 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-08 11:32:32 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-08 11:32:32 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-08 11:34:38 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-08 11:34:39 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-08 11:34:39 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-08 11:34:39 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-08 11:43:07 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-08 11:43:07 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-08 11:43:08 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-08 11:43:08 DEBUG InitDatabase:48 - Finishing of initializing of database.
+2020-02-08 11:44:07 DEBUG InitDatabase:40 - Starting of initializing of database.
+2020-02-08 11:44:07 DEBUG InitDatabase:52 - Starting of creating H2 schema.
+2020-02-08 11:44:07 DEBUG InitDatabase:59 - H2 schema was created.
+2020-02-08 11:44:07 DEBUG InitDatabase:48 - Finishing of initializing of database.
