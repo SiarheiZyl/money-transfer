@@ -21,13 +21,13 @@ import revolut.moneytransfer.util.MessageConstants;
  *
  * @author szyl
  */
-public class FileService {
+public class TransferMoneyService {
 
     private AccountDao accountDao;
 
     private FileDao fileDao;
 
-    public FileService() {
+    public TransferMoneyService() {
         accountDao = (AccountDao) DaoManager.createDao(InitDatabase.getConnection(), Account.class);
         fileDao = (FileDao) DaoManager.createDao(InitDatabase.getConnection(), File.class);
     }

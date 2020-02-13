@@ -18,7 +18,7 @@ import revolut.moneytransfer.exception.IllegalClientException;
 import revolut.moneytransfer.exception.WrongAmountException;
 import revolut.moneytransfer.service.AccountService;
 import revolut.moneytransfer.service.ClientService;
-import revolut.moneytransfer.service.FileService;
+import revolut.moneytransfer.service.TransferMoneyService;
 import revolut.moneytransfer.util.MessageConstants;
 
 /**
@@ -34,7 +34,7 @@ public class UserController {
 
     private static ClientService clientService = new ClientService();
 
-    private static FileService fileService = new FileService();
+    private static TransferMoneyService transferMoneyService = new TransferMoneyService();
 
     public static Handler getClientInformationAndAccounts = ctx -> {
         logger.debug("getClientInformationAndAccounts request");
@@ -130,7 +130,7 @@ public class UserController {
         ObjectMapper mapper = new ObjectMapper();
         MoneyTransferRq moneyTransferRq = mapper.readValue(body, MoneyTransferRq.class);
         try {
-            boolean result = fileService.createAndProceedTransfer(moneyTransferRq);
+            boolean result = transferMoneyService.createAndProceedTransfer(moneyTransferRq);
             if (result) {
                 ctx.json(new MoneyTransferRs(MessageConstants.SUCCESSFUL_MONEY_TRANSFER));
             } else {

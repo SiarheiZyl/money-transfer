@@ -15,8 +15,6 @@ dependencies {
     compile 'com.h2database:h2:1.4.199'
     compile 'io.javalin:javalin:3.7.0'
     compile "com.fasterxml.jackson.core:jackson-databind:2.10.1"
-    compile 'com.j256.ormlite:ormlite-core:5.1'
-    compile 'com.j256.ormlite:ormlite-jdbc:5.1'
     compile 'org.slf4j:slf4j-simple:1.7.28'
     compile'ch.qos.logback:logback-classic:1.2.3'
     testCompile 'com.konghq:unirest-java:3.4.00'

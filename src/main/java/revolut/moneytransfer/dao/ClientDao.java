@@ -22,7 +22,7 @@ public class ClientDao extends AbstractDao<Client> {
 
     @Override
     public Client findById(Integer id) throws SQLException {
-        if(id == null) {
+        if (id == null) {
             return null;
         }
         PreparedStatement statement = connection.prepareStatement(findByIdSql);
